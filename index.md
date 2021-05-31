@@ -48,11 +48,11 @@ You can check out the projects and their status [Here.](/projects/)
 
 ## Contact me:
 
-### For developing sustainable solutions I am always open.
+#### For developing sustainable solutions I am always open.
 
-### For maintaining a repository too.... (I am very much active in GitHub)
+#### For maintaining a repository too.... (I am very much active in GitHub)
 
-### For writing beautiful and explainable docs for open source softwares for free.
+#### For writing beautiful and explainable docs for open source softwares for free.
 
 * Contact me by opening a [issue](https://github.com/Prajwalprakash3722/prajwalprakash3722.github.io/issues) in my repository.
 
@@ -64,6 +64,8 @@ You can check out the projects and their status [Here.](/projects/)
 
 > “I believe that the world is not only made up of atoms, but it is also made up of stories, each and everyone has a unique and different story, the silent struggle behind the story is what brings us together.”
 
-## I am trying to be a good Dev by contributing in FOSS.
+### I am trying to be a good Dev by contributing in FOSS.
 
 ## Read Articles Written by me:
+[Medium](https://prajwalprakash3722.medium.com/)
+Will Put them in the blog too
