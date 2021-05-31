@@ -1,5 +1,5 @@
 ---
-title: How Lucky Are We……?
+title: <h2 style="color:#fff">How Lucky Are We……?<h2>
 categories:
   - General
 excerpt: |
