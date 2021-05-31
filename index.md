@@ -59,7 +59,7 @@ You can check out the projects and their status [Here.](/projects/)
 * [Email](mailto:prajwalprakash3722@gmail.com)
 
 
-#### Not Looking for Work currently, But If there are any internship oppurtinies in your organization you can reach out.
+#### Not Looking for Work currently, But If there are any internship oppurtinies in your organization you may reach out.
 <br/>
 
 > “I believe that the world is not only made up of atoms, but it is also made up of stories, each and everyone has a unique and different story, the silent struggle behind the story is what brings us together.”
@@ -68,4 +68,5 @@ You can check out the projects and their status [Here.](/projects/)
 
 ## Read Articles Written by me:
 [Medium](https://prajwalprakash3722.medium.com/)
+<br/>
 Will Put them in the blog too
