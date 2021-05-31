@@ -16,26 +16,34 @@ want to see what I cooked:- [The Dishes](/)
 
 ## Skills
 
-### My primary language is Python ofc;
+#### My primary language is Python ofc;
 
-* Python: <br/>
+###  Python: <br/>
 I have a year of experience in developing various solutions python language.
 + Procedural OOP programming in Python 
-+ Backend: Flask
++ Preferred Backend: Flask framework
 + various data types
 + PyPI package handling
 
-* JavaScript:<br/>
+### JavaScript:<br/>
 I have a knowledge about the basic web requirements.
 + React.js
 + web-scripts
 
-* HTML/CSS:<br/>
+### HTML/CSS:<br/>
 I have developed various sites in HTML and css.
 + Bootstrap framework
 
-* C/C++: <br/>
+### C/C++: <br/>
 I have a basic knowledge in c and c++ in which i learnt in my Pre University days.
 
-* Git & Github: <br/>
+### Git & Github: <br/>
 I have used Github Web version for almost a year now and I am using CLI based Git for almost 5 months.
+
+### Docs: <br/>
+I have mastered the markdown language and I can write beautiful docs to explain the code.
+
+## Projects:
+You can check out the projects and their status [Here](/projects/)
+
+#### Not Looking for Work currently

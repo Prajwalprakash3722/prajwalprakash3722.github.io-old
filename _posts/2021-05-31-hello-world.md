@@ -6,7 +6,7 @@ excerpt: |
   This is my first post
 feature_text: |
   ## Hello World
-feature_image: "https://picsum.photos/2560/600?image=733"
+feature_image: "assets/images/hello_world.png"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 

@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "Prajwal" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/prajwal-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Prajwal-prakash's personal site and blog" # Site description and default description, also used in jekyll-seo-tag
-url: "" # Site url, also used in jekyll-seo-tag
+url: "https://prajwalprakash3722.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/Prajwalprakash3722/prajwalprakash3722.github.io"
 email: "prajwalprakash3722@gmail.com"
