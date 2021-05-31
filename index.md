@@ -44,6 +44,26 @@ I have used Github Web version for almost a year now and I am using CLI based Gi
 I have mastered the markdown language and I can write beautiful docs to explain the code.
 
 ## Projects:
-You can check out the projects and their status [Here](/projects/)
+You can check out the projects and their status [Here.](/projects/)
 
-#### Not Looking for Work currently
+## Contact me:
+
+### For developing sustainable solutions I am always open.
+
+### For maintaining a repository too.... (I am very much active in GitHub)
+
+### For writing beautiful and explainable docs for open source softwares for free.
+
+* Contact me by opening a [issue](https://github.com/Prajwalprakash3722/prajwalprakash3722.github.io/issues) in my repository.
+
+* [Email](mailto:prajwalprakash3722@gmail.com)
+
+
+#### Not Looking for Work currently, But If there are any internship oppurtinies in your organization you can reach out.
+<br/>
+
+> “I believe that the world is not only made up of atoms, but it is also made up of stories, each and everyone has a unique and different story, the silent struggle behind the story is what brings us together.”
+
+## I am trying to be a good Dev by contributing in FOSS.
+
+## Read Articles Written by me:

@@ -5,9 +5,9 @@ categories:
 excerpt: |
   This is my first post
 feature_text: |
-  ## Hello World
-feature_image: "assets/images/hello_world.png"
-image: "https://picsum.photos/2560/600?image=733"
+  ### Hello World
+feature_image: "https://user-images.githubusercontent.com/71436720/120181344-8cb4b480-c22a-11eb-9147-38252eb61304.png"
+image: "https://user-images.githubusercontent.com/71436720/120181344-8cb4b480-c22a-11eb-9147-38252eb61304.png
 ---
 
 This is my first ever post, here I will upload my thoughts in descriptive way whenever I get time.
