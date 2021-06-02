@@ -16,7 +16,7 @@ You must have heard about Image Processing. Well, what is it?
 
 Image-Processing is processing each pixel of data present in the image, Now don’t tell me you haven’t learned the term PIXEl, if you haven’t here it is, then pixel represents the smallest possible element in an image. Several pixels contribute to a complete image.
 
-open-cv (Open Source Computer Library) an open source pre-trained module which was started in 1999 and written in c++, but the recent algorithms are being written in Python and Java.
+open-cv (Open Source Computer Library) an open source pre-trained module which was started in 1999 and written in c++, but the recent Algorithms are being written in Python and Java.
 
 Now we are going to learn about the most basic operation in open-cv, which is reading the image.
 
@@ -59,11 +59,11 @@ Then copy the image file path
 import cv2 # we are importing the cv2 module from opencv
 
 
-image_path = “/home/prajwal/OpenCv/image_1.jpeg” #change this path by your image path
+image_path = '/home/prajwal/OpenCv/image_1.jpeg' #change this path by your image path
 
 image = cv2.imread(image_path) # Reading of image
 
-cv2.imshow(“Image-Reading”, image) # Image output in new Window
+cv2.imshow('Image-Reading', image) # Image output in new Window
 
 cv2.waitKey(0)
 
