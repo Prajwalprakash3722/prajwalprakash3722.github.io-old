@@ -52,18 +52,24 @@ or if you are a Linux user like me,
 
 Then copy the image file path
 
+#### Code Snippet
+
 ```python
 
 import cv2 # we are importing the cv2 module from opencv
 
 
-image_path = “/home/prajwal/OpenCv/1.jpeg” #change this path by your image path
+image_path = “/home/prajwal/OpenCv/image_1.jpeg” #change this path by your image path
 
 image = cv2.imread(image_path) # Reading of image
 
 cv2.imshow(“Image-Reading”, image) # Image output in new Window
-```
 
+cv2.waitKey(0)
+
+cv2.destroyAllWindows()
+```
+A window with the image and Title "Image-Reading" will pop out
 How easy was that, You can do much more with the opencv? Follow this space regularly to know them.
 
 ##### Thank you.
