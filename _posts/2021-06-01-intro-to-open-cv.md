@@ -5,14 +5,14 @@ categories:
 excerpt: |
   A brief introduction to a popular module called Open-Cv
 feature_text: |
-  ##Open-cv
-feature_image: "https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"
-image: "https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"
+   
+feature_image: "https://miro.medium.com/max/3200/1*Cvwue5II1QjdXIhSPGkVUw.png"
+image: "https://miro.medium.com/max/3200/1*Cvwue5II1QjdXIhSPGkVUw.png"
 ---
 
-Hey there Happy Pride month, This is my first post about a topic related to coding.
+Hey there, Happy Pride month, This is my first post about a topic related to coding.
 
-You must have heard about Image Processing. Well, what is it? </br>
+You must have heard about Image Processing. Well, what is it?
 
 Image-Processing is processing each pixel of data present in the image, Now don’t tell me you haven’t learned the term PIXEl, if you haven’t here it is, then pixel represents the smallest possible element in an image. Several pixels contribute to a complete image.
 
@@ -20,7 +20,7 @@ open-cv (Open Source Computer Library) an open source pre-trained module which w
 
 Now we are going to learn about the most basic operation in open-cv, which is reading the image.
 
-#### Steps
+### Steps:
 
 open a new folder in terminal and initialize virtual environment:
 
@@ -70,6 +70,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 A window with the image and Title "Image-Reading" will pop out
-How easy was that, You can do much more with the opencv? Follow this space regularly to know them.
-
+How easy was that, You can do so much more with the opencv? Follow this space regularly to know them.
+ 
+Learn more about [Open-Cv](https://opencv.org/)
 ##### Thank you.
