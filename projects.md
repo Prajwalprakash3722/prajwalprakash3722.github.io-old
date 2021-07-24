@@ -29,6 +29,6 @@ aside: true
 
 - Text-Extractor(Contributed to the Text-Extractor by joe-Sin7h) [in-progress]
 
-\*Crypto-price tracker WebApp and CLI package [in-progress]
+- Crypto-price tracker WebApp and CLI package [in-progress]
 
 ### I will try to update whenever i shall start a new project or finish a [in progress] projects.
