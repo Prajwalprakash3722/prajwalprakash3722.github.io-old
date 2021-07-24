@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-You have come across the personal site of Prajwal, you'll find all of my projects, and my blog too. I am a freshman Computer Science student at RVCE-Bengaluru. You can find my [blog](blog/) here or You can learn more about me below
+You have come across the personal site of Prajwal, you'll find all of my projects, and my blog too. I am a freshman Computer Science student at RVCE-Bengaluru. You can find my [blog](blog/) or my [YouTube channel](https://www.youtube.com/channel/UCzey2YvydCAVpwAldQSgEkA) here or You can learn more about me below
 
 ## About Me:
 
@@ -21,6 +21,9 @@ This website contains literature reviews, essays, projects, and coding experimen
 
 ## Skills
 
+I have a strong background in Computer Science and I am currently working on my B.Tech in Computer Science. I have also taken up some projects in the past,
+[Coding Experiments](/projects/)
+=======
 I have a strong background in Computer Science and I am currently working on my B.Tech in Computer Science. I have also taken up some projects in the past, such as [CodingExperiments](/projects/)
 
 ### Python: <br/>
@@ -38,12 +41,14 @@ I have a knowledge about the basic web requirements.
 
 - React.js
 - web-scripts
+- node
 
 ### HTML/CSS:<br/>
 
 I have developed various sites in HTML and css.
 
 - Bootstrap framework
+- Tailwind CSS framework
 
 ### C/C++: <br/>
 
@@ -51,7 +56,7 @@ I have a basic knowledge in c and c++ in which i learnt in my Pre University day
 
 ### Git & Github: <br/>
 
-I have used Github Web version for almost a year now and I am using CLI based Git for almost 5 months.
+I have been using Git and Github for a long time, and I have a overall complete knowledge of it.
 
 ### Docs: <br/>
 
@@ -59,16 +64,14 @@ I have mastered the markdown language and I can write beautiful docs to explain 
 
 ## Contact me:
 
-#### For developing sustainable solutions I am always open.
+##### For developing sustainable solutions I am always open.
 
-#### For maintaining a repository too.... (I am very much active in GitHub)
+##### For maintaining a repository too.... (I am very much active in GitHub)
 
-#### For writing beautiful and explainable docs for open source softwares for free.
+##### For writing beautiful and explainable docs for open source softwares for free.
 
 - Contact me by opening a [issue](https://github.com/Prajwalprakash3722/prajwalprakash3722.github.io/issues) in my repository.
 
 - [Email](mailto:prajwalprakash3722@gmail.com)
-
-<br/>
 
 > “I believe that the world is not only made up of atoms, but it is also made up of stories, each and everyone has a unique and different story, the silent struggle behind the story is what brings us together.”
